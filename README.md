@@ -7,3 +7,4 @@ Using Eric Meyer's Reset
    License: none (public domain)
 */
 
+using Git Ignore from # Created by https://www.gitignore.io/api/node,linux,macos,windows,visualstudiocode
