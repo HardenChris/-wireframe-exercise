@@ -1,8 +1,106 @@
 header {
-    height: 400px;
+    height: 100px;
     width: 100vw;
     padding: 0 30px;
     background-color:  grey;
 
 }
+header h1, header,nav {
+   display: inline-block;
+   width: %;
+   text-align: center;
+}
 
+.feat-sect-ban{
+   display: block;
+   top: 25px;
+   position: relative;
+   text-align:  left;
+   margin-right: auto;
+   padding-left: 410px;
+}
+
+
+main {
+   height: calc(100vh - 300px);
+   background-color:;
+   padding: 25px 100px ;
+   box-sizing: border-box ;
+   text-align: center;
+}
+
+.card{
+   height: 480px;
+   width: 400px;
+   padding: 50px;
+   display: inline-block;
+   width: 50%;
+   text-align: left;
+}
+
+.card-body{
+   height: 300px;
+   width: 480px;
+   overflow: scroll;
+   display: inline-block;
+}
+
+card-header{
+   text-align: left;
+   display: block;
+   font-size: 50px;
+}
+
+h3 {
+font-size: 18px;
+
+}
+.sub-banner1, .sub-banner2, .sub-banner3{
+   display: inline-block;
+   position: relative;
+   bottom: px;
+   padding-left: 25px;
+   align-items: center;
+}
+
+.sub-banner1 {
+    padding-left: 80px;
+}
+
+.NAV {
+    font-size: 25px;
+    height: 73px;
+    width:  200px;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 26px;
+    background-color: grey;
+    border: none;
+}
+
+.logo {
+    
+    padding: 15px;
+}
+
+.hero-img {
+    
+}
+
+.card-icon {
+    font-size: 100px;
+}
+
+footer {
+    height: 100px;
+    width: 100vw;
+    margin-top: 100px;
+    background-color:  grey;
+    position: relative;
+    top: 150px;
+}
+
+.CtA {
+    
+}
