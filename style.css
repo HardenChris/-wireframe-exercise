@@ -7,7 +7,6 @@ header {
 }
 header h1, header,nav {
    display: inline-block;
-   width: %;
    text-align: center;
 }
 
@@ -23,7 +22,6 @@ header h1, header,nav {
 
 main {
    height: calc(100vh - 300px);
-   background-color:;
    padding: 25px 100px ;
    box-sizing: border-box ;
    text-align: center;
@@ -84,10 +82,6 @@ font-size: 18px;
     padding: 15px;
 }
 
-.hero-img {
-    
-}
-
 .card-icon {
     font-size: 100px;
 }
@@ -99,8 +93,4 @@ footer {
     background-color:  grey;
     position: relative;
     top: 150px;
-}
-
-.CtA {
-    
 }
